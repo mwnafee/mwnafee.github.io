@@ -1,13 +1,13 @@
 title: Mahmud Wasif Nafee # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Aspiring ML Researcher specializing in health informatics
   <br><br>
-  Second description 
+  Additionally equipped with knowledge of Electric & Electronic Circuitry, Continuous & Discrete Signal Processing, Microcontrollers, Bioinformatics 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/mwnafee/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
