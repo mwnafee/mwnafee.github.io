@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Undergraduate Thesis
 
-[Project 1 Title](/sample_page)
+[RadTextAid: A CNN-Guided Framework Utilizing Lightweight Vision-Language Models for Assistive Radiology Reporting](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
