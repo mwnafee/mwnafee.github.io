@@ -9,7 +9,7 @@
 
 ---
 ### Capstone Project
-[BABYBELT:ALOW-COSTUTERINE CONTRACTION ANDFETALHEARTRATE MONITORING BELT](/pdf/Team_BabyBelt.pdf)
+[BABYBELT:A LOW-COSTUTERINE CONTRACTION ANDFETALHEARTRATE MONITORING BELT](/pdf/Team_BabyBelt.pdf)
 <img src="images/babybelt.jpg?raw=true"/>
 
 ---
