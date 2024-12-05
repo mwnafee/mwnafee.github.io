@@ -4,28 +4,20 @@
 
 ### Undergraduate Thesis
 
-[RadTextAid: A CNN-Guided Framework Utilizing Lightweight Vision-Language Models for Assistive Radiology Reporting]
+[RadTextAid: A CNN-Guided Framework Utilizing Lightweight Vision-Language Models for Assistive Radiology Reporting](/pdf/Draft_Radtext_AAAI.pdf)
 <img src="images/Model_CXR.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[BABYBELT:ALOW-COSTUTERINE CONTRACTION ANDFETALHEARTRATE MONITORING BELT](/pdf/Team_BabyBelt.pdf)
+<img src="images/babybelt.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[BERT-based Chest X-ray Report Classifier to determine 14 CheXpert](https://github.com/mwnafee/cxr-text-label-classifier)
+
 
 ---
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
