@@ -13,7 +13,7 @@
 <img src="images/babybelt.jpg?raw=true"/>
 
 ---
-### Skill building Project
+### Skill building Projects
 [Brain tumor segentatation from MR images using Unet architecture](https://github.com/mwnafee/brain-tumor-mri-segmentation)
 <img src="images/brain-mri.png?raw=true"/>
 
