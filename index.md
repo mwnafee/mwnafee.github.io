@@ -8,12 +8,15 @@
 <img src="images/Model_CXR.png?raw=true"/>
 
 ---
+### Capstone Project
 [BABYBELT:ALOW-COSTUTERINE CONTRACTION ANDFETALHEARTRATE MONITORING BELT](/pdf/Team_BabyBelt.pdf)
 <img src="images/babybelt.jpg?raw=true"/>
 
 ---
-[BERT-based Chest X-ray Report Classifier to determine 14 CheXpert](https://github.com/mwnafee/cxr-text-label-classifier)
+### Skill building Project
+[BERT-based Chest X-ray Report Classifier to determine 14 CheXpert labels](https://github.com/mwnafee/cxr-text-label-classifier)
 
+[Brain tumor segentatation from MR images using Unet architecture](https://github.com/mwnafee/brain-tumor-mri-segmentation)
 
 ---
 
