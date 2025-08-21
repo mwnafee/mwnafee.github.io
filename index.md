@@ -4,7 +4,7 @@
 
 ### Pre-Doctoral Research Publications
 
-Dynamic Retriever for In-Context Knowledge Editing via Policy Optimization
+[Dynamic Retriever for In-Context Knowledge Editing via Policy Optimization](#)
 
 Accepted for Main Conference Presentation at EMNLP 2025
 
