@@ -4,7 +4,7 @@
 
 ### Undergraduate Thesis
 
-[RadTextAid: A CNN-Guided Framework Utilizing Lightweight Vision-Language Models for Assistive Radiology Reporting](/pdf/Draft_Radtext_AAAI.pdf)
+[RadTextAid: A CNN-Guided Framework Utilizing Lightweight Vision-Language Models for Assistive Radiology Reporting](https://openreview.net/forum?id=qMf7t1RvWW)
 <img src="images/Model_CXR.png?raw=true"/>
 
 ---
