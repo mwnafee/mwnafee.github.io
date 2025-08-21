@@ -12,7 +12,7 @@ Accepted at GenAI4Health@AAAI'25
 
 ---
 ### Capstone Project
-[BABYBELT:A LOW-COSTUTERINE CONTRACTION ANDFETALHEARTRATE MONITORING BELT](/pdf/Team_BabyBelt.pdf)
+[BabyBelt: A Low-Cost Wearable Uterine Contraction Monitoring Belt Using Velostat Sensors](/pdf/Team_BabyBelt.pdf)
 <img src="images/babybelt.jpg?raw=true"/>
 
 ---
