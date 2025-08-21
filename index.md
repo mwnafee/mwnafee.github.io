@@ -13,6 +13,9 @@ Accepted at GenAI4Health@AAAI'25
 ---
 ### Capstone Project
 [BabyBelt: A Low-Cost Wearable Uterine Contraction Monitoring Belt Using Velostat Sensors](/pdf/Team_BabyBelt.pdf)
+
+IEEE-EMBS BSN 2025
+
 <img src="images/babybelt.jpg?raw=true"/>
 
 ---
