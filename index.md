@@ -8,6 +8,13 @@ Dynamic Retriever for In-Context Knowledge Editing via Policy Optimization
 
 Accepted for Main Conference Presentation at EMNLP 2025
 
+[Enhanced Mitotic Figure Detection in Glioma Using Super-Resolution Images and High-Frequency Content Maps](https://ieeexplore.ieee.org/document/10980984)
+
+Accepted for Main Conference Presentation at IEEE ISBI 2025
+
+[Descriptor: A Word-Level Wi-Fi CSI-Based Deep Bangladeshi Sign Language Dataset (WiBaSL)](https://ieeexplore.ieee.org/document/11059271)
+
+Accepted for Publication in IEEE Data Descriptions
 
 ### Undergraduate Thesis
 
