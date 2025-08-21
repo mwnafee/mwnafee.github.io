@@ -2,6 +2,10 @@
 
 ---
 
+### Pre-Doctoral Research Publications
+
+[Dynamic Retriever for In-Context Knowledge Editing via Policy Optimization]
+
 ### Undergraduate Thesis
 
 [RadTextAid: A CNN-Guided Framework Utilizing Lightweight Vision-Language Models for Assistive Radiology Reporting](https://openreview.net/forum?id=qMf7t1RvWW)
