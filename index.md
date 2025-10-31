@@ -16,6 +16,10 @@ Accepted for Main Conference Presentation at IEEE ISBI 2025
 
 Accepted for Publication in IEEE Data Descriptions
 
+[A Robust Signal Processing Framework for CSI based Bangla Sign Language Recognition via Doppler-Based Subcarrier Selection, Complex ICA, and Energy-Based Fusion](https://ieeexplore.ieee.org/document/11222623)
+
+Accepted for Publication in IEEE Access
+
 ### Undergraduate Thesis
 
 [RadTextAid: A CNN-Guided Framework Utilizing Lightweight Vision-Language Models for Assistive Radiology Reporting](https://openreview.net/forum?id=qMf7t1RvWW)
@@ -28,7 +32,7 @@ Accepted at GenAI4Health@AAAI'25
 ### Capstone Project
 [BabyBelt: A Low-Cost Wearable Uterine Contraction Monitoring Belt Using Velostat Sensors](/pdf/Team_BabyBelt.pdf)
 
-Accepted at IEEE-EMBS BSN 2025
+Accepted Main Conference Presentation at IEEE-EMBS BSN 2025
 
 <img src="images/babybelt.jpg?raw=true"/>
 
