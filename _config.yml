@@ -1,12 +1,12 @@
 title: Mahmud Wasif Nafee # your name (or website title) here
 logo: "/images/nafee2.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Research Assistant, Institute of Appropriate Technology, BUET
+  Research Assistant, Dept. of Biomedical Engineering, Rensselaer Polytechnic Institute
   <br><br>
-  Expertise in Health informatics, Medical Imaging, Biosignal, NLP, Computer Vision, Electric & Electronic Circuitry,Continuous & Discrete Signal Processing, Microcontrollers, Bioinformatics
+  Expertise in Medical Imaging, Generative AI, Computed Tomography, NLP, Computer Vision, Continuous & Discrete Signal Processing
   <br><br>
   <a href="https://www.linkedin.com/in/mwnafee/">View My LinkedIn Profile</a> 
-  <a href="https://github.com/mwnafee/mwnafee.github.io/blob/master/pdf/Mahmud_Wasif_Nafee_Curriculum_Vitae.pdf">View My CV</a> 
+  <a href="https://github.com/mwnafee/mwnafee.github.io/blob/master/pdf/Professional_CV_Mahmud_Wasif.pdf">View My CV</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
